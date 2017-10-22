@@ -14,4 +14,4 @@ chmod -R 777 /var/www/symfony3/
 chown -R www-data:www-data /var/www/symfony3/var/cache
 chown -R www-data:www-data /var/www/symfony3/var/logs
 
-php-fpm7.0 -F
+php-fpm7.1 -F
